@@ -75,7 +75,7 @@ Press Releases
 Links
 -----
 
-* [Documentation](https://mara.readthedocs.io/)
+* *Documentation <!--[](https://mara.readthedocs.io/)--> (coming soon)*
 * [PyPI Packages](https://pypi.org/user/mara-pypi-upload-account/)
 * [Slack Chat](https://join.slack.com/t/mara-users/shared_invite/zt-1b2y0rr37-KXTnXtIqdxOTcNBTD2tQ4A)
 * [GitHub Repositories](https://github.com/orgs/mara/repositories)
