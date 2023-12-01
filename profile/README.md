@@ -1,6 +1,6 @@
 <img src="https://github.com/mara/.github/raw/main/assets/mara-animal.jpg"  style="width:40%; margin-left: auto; margin-right:auto; display:block;">
 
-The **Mara ETL Framework** is a Python framework to build data pipelines.
+The **Mara ELT Framework** is a Python framework to build data pipelines.
 
 
 It has been designed and build by [Dr. Martin Loetzsch](https://github.com/martin-loetzsch) at [Project A](https://github.com/project-a) as a lightweight data transformation framework for their ventures. Today the Mara Packages are maintained and developed further by the Mara Open Source community.
@@ -12,8 +12,8 @@ Example projects
 
 Runnable apps that demonstrates how to build a data warehouse app with mara:
 
-* [Mara Example Project 1](https://github.com/mara/mara-example-project-1) - example ETL integrates publicly available e-commerce and marketing data into a more general modeling and structure for highlighting the capabilities of the Mara framework
-* [Mara Example Project 2](https://github.com/mara/mara-example-project-2) - example ETL integrates PyPi download stats and GitHub repo activitiy metrics into more general Python project activity stats
+* [Mara Example Project 1](https://github.com/mara/mara-example-project-1) - example ELT integrates publicly available e-commerce and marketing data into a more general modeling and structure for highlighting the capabilities of the Mara framework
+* [Mara Example Project 2](https://github.com/mara/mara-example-project-2) - example ELT integrates PyPi download stats and GitHub repo activitiy metrics into more general Python project activity stats
 
 &nbsp;
 
